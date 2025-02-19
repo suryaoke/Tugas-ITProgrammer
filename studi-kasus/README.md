@@ -9,7 +9,7 @@ Halaman Pemeriksaan
 
 Halaman Create Pemeriksaan
 
-![alt text](https://github.com/suryaoke/Tugas-ITProgrammer/blob/main/studi-kasus/create%20pemeriksaan.jpgg?raw=true)
+![alt text](https://github.com/suryaoke/Tugas-ITProgrammer/blob/main/studi-kasus/create%20pemeriksaan.jpg?raw=true)
 
 
 
